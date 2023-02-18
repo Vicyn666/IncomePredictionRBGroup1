@@ -26,3 +26,11 @@ capital-loss: continuous.
 hours-per-week: continuous. 
 native-country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, Holand-Netherlands. 
 Для некоторых числовых (continuous) характеристик в датасете нет полного описания.
+
+----------------------------------------------------------------
+
+Дедлайны:
+* 21 февраля 10:00 - необходимо сделать разведочный анализ и обучить логистическую регрессию для решения вашей задачи (по материалам занятия 4)
+* 25 февраля - улучшить решение: закодировать категориальные признаки при помощи OneHot encoding, обучить бустинг (по материалам занятия 5)
+* 28 февраля - собрать докер-образ проекта 
+* 2 марта - подготовить презентации к защите проектов
